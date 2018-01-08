@@ -1,2 +1,4 @@
-# 202_Project2_HashTable
-Comp202 Hash Table Implementation in Java Spring 2016
+# HashTable Implementation
+
+Spring 2016 - Comp202 (Algorithms & Data Structers)
+
